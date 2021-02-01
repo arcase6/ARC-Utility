@@ -1,0 +1,17 @@
+{
+    "name": "ARC.SerializationToolkit.Editor",
+    "references": [
+        "GUID:cfcdc3f580a90f74fa3782d96490254d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
